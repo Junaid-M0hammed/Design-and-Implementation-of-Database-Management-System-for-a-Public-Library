@@ -100,14 +100,6 @@ The scope of this project includes:
 3. Insert sample data using provided SQL scripts.
 4. Execute provided queries to interact with the database.
 
-## Usage
-- Modify the SQL scripts as needed to customize the database.
-- Use the provided queries to perform various data retrieval and manipulation operations.
-- Extend the database with additional features and functionalities as needed.
-
-## Contributing
-- Contributions are welcome. Please open an issue or submit a pull request for any changes.
-
 ## License
 - This project is licensed under the MIT License.
 
